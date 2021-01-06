@@ -22,7 +22,7 @@ class DialogDelete(private val context: Context, private val ItemID: Int, privat
         dialog.window?.apply {
             setLayout(WindowManager.LayoutParams.MATCH_PARENT,
                     WindowManager.LayoutParams.WRAP_CONTENT)
-            setGravity(Gravity.CENTER)
+            //setGravity(Gravity.CENTER)
             setBackgroundDrawableResource(R.color.white)
         }
 
