@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_100">150dp</dimen>
+    <dimen name="dimen_48">48dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_12">12dp</dimen>
+    <dimen name="font_size_16">16dp</dimen>
+    <dimen name="font_size_18">18dp</dimen>
+    <dimen name="font_size_24">24dp</dimen>
+</resources>
